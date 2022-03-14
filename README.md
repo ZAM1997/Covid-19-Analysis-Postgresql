@@ -26,9 +26,10 @@
 * **How was the number of cases impacted during the holiday season (Christmas, 25th December 2020), and what was the impact on neighboring states of the most impacted state?**
 * **How did Delta Variant (May 31, 2021) affect cases, vaccination, and testing?**
 
-* **Software Problems**: AWS can pose several server issues
+### Sofware Problems
+* AWS can pose several server issues
 
-* **Plots in the model**:
+### Plots in the mode:
 * **Bar Graph**
 * **Stacked Bar Graph**
 
