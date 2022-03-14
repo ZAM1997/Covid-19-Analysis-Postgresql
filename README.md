@@ -29,7 +29,7 @@
 ### Sofware Problems
 * AWS can pose several server issues
 
-### Plots in the mode:
+### Plots in the model:
 * **Bar Graph**
 * **Stacked Bar Graph**
 
