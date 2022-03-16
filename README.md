@@ -3,7 +3,7 @@
 ### Basic Information
 
 * **Model date**: December, 2021
-* **Model Type**: [STAR SCHEMA](Star Schema.png)
+* **Model Type**: [STAR SCHEMA.png](Star Schema.png)
 * **Model version**: 1.0
 * **License**: MIT
 * **Model implementation code**: [Covid_19_Analysis](Covid_19_Analysis.ipynb)
