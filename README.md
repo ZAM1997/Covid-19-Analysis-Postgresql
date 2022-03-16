@@ -3,7 +3,7 @@
 ### Basic Information
 
 * **Model date**: December, 2021
-* **Model Type**: [Star Schema](Star Schema.png)
+* **Model Type**: [Star Schema](https://github.com/ZAM1997/Covid-19-Analysis-Postgresql/blob/main/Star%20Schema.png)
 * **Model version**: 1.0
 * **License**: MIT
 * **Model implementation code**: [Covid_19_Analysis](Covid_19_Analysis.ipynb)
